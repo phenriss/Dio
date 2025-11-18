@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bem-vindo à Clínica Pediatria & Saúde Familiar</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <!-- Aqui vai o seu menu -->
+            <ul>
+                <li><a href="index.html">Página Inicial</a></li>
+                <li><a href="sobre.html">Sobre a clínica</a></li>
+                <li><a href="horario.html">Horário de Atendimento</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                Header
+                <!-- Aqui vai o seu header -->
+                 <style>
+                /* Faz o header usar a imagem como fundo cobrindo toda a área */
+                .header {
+                    background-image: url('images/header-contato.jpg');
+                    background-size: cover;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    min-height: 220px; /* ajuste conforme necessário */
+                    width: 100%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    position: relative;
+                }
+
+                /* Se quiser um título visível sobre a imagem */
+                .header h2 {
+                    color: #fff;
+                    text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+                    margin: 0;
+                    padding: 0.5rem 1rem;
+                    background: rgba(0,0,0,0.2);
+                    border-radius: 4px;
+                }
+                </style>
+
+                <!-- Opcional: título sobre a imagem -->
+                <h2>Entre em contato conosco</h2>
+            </div>
+    
+            <div class="content">
+                Content
+                <!-- Aqui vai o seu conteúdo -->
+                <h1>Contato</h1>
+            <p>Telefone: (11) 99999-9999 | WhatsApp: (11) 98888-8888</p>
+            <p>Endereço: Rua das Flores, 123 - São Paulo/SP</p>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.140349067195!2d-46.4712958255751!3d-23.491453759025873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6107e57a4fe1%3A0x68c54768cd7630ef!2sR.%20das%20Fl%C3%B4res%2C%20123%20-%20Vila%20Santa%20Ines%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2001000-000!5e0!3m2!1spt-BR!2sbr!4v1763431285752!5m2!1spt-BR!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            
+            <h2>Formulário de Contato</h2>
+            <form>
+                <label>Nome:</label><br>
+                <input type="text" name="nome"><br><br>
+
+                <label>E-mail:</label><br>
+                <input type="email" name="email"><br><br>
+
+                <label>Assunto:</label><br>
+                <input type="text" name="assunto"><br><br>
+
+                <label>Mensagem:</label><br>
+                <textarea name="mensagem" rows="5" cols="40"></textarea><br><br>
+
+                <button type="submit">Enviar</button>
+                <button type="reset">Limpar</button>
+            </form>
+            </div>
+    
+            <div class="footer">
+                Footer
+                <!-- Aqui vai o seu rodapé -->
+                 <p>Telefone: (11) 99999-9999 | WhatsApp: (11) 98888-8888</p>
+                 <p>Endereço: Rua das Flores, 123 - São Paulo/SP</p>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
