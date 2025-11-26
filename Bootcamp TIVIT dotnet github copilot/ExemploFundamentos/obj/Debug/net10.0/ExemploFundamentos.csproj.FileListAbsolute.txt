@@ -1,0 +1,15 @@
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\bin\Debug\net10.0\ExemploFundamentos.exe
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\bin\Debug\net10.0\ExemploFundamentos.deps.json
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\bin\Debug\net10.0\ExemploFundamentos.runtimeconfig.json
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\bin\Debug\net10.0\ExemploFundamentos.dll
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\bin\Debug\net10.0\ExemploFundamentos.pdb
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.sourcelink.json
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.dll
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\obj\Debug\net10.0\refint\ExemploFundamentos.dll
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.pdb
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\obj\Debug\net10.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Dio\Bootcamp TIVIT dotnet github copilot\ExemploFundamentos\obj\Debug\net10.0\ref\ExemploFundamentos.dll
